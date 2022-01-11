@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Richard!
-- 👀 I’m into progrmming more than 2 years
-- 🌱 I’m currently learning C# and OOP
+- 👀 I’m into progrmming more than 3 years
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
-  - Instagram @_iam_rich_
-  - FB https://www.facebook.com/richard.kadyan
+  - [LinkedIn](www.linkedin.com/in/richard-kadian)
+  - [FB](https://www.facebook.com/richard.kadyan)
+  - [Instagram](https://www.instagram.com/_iam_rich_)

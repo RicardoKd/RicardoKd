@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Richard!
-- 👀 I’m into progrmming more than 3 years
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m into progrmming more than 3,5 years
+- 🌱 I’m a Junior JavaScript/ReactJS dev
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/richard-kadian)
-  - [FB](https://www.facebook.com/richard.kadyan)
   - [Instagram](https://www.instagram.com/_iam_rich_)

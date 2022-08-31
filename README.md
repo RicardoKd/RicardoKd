@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard!
-- 👀 I code for over 4 years now
+- 👀 I code over 2 years now
 - 🌱 I’m a ReactJS dev
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/richard-kadian)

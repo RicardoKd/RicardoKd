@@ -1,6 +1,6 @@
 - Hi, I’m Richard!
 - I’m open to work.
-- I code for over 1 years now.
+- I code for over 1 year now.
 - I’m a Full Stack JS dev.
 - How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/richard-kadian)

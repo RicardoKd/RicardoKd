@@ -1,6 +1,4 @@
 - Hi, I’m Richard!
-- I’m open to work.
 - I’m a full-stack JavaScript developer.
-- I have 1+ years of experience.
 - Reach out to me here:
   - [LinkedIn](https://www.linkedin.com/in/richard-kadian)
